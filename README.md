@@ -10,7 +10,7 @@ This is the open-source browser extension behind **[GramsInCup](https://gramsinc
 
 A cup is a measure of volume and a gram is a measure of weight, so there is no single "grams in a cup" number. 1 cup of all-purpose flour is about 125 g, while 1 cup of granulated sugar is about 200 g. This converter stores a grams-per-cup value for each ingredient and does the maths for you.
 
-Full charts for every ingredient: [How many grams in a cup](https://gramsincup.com/how-many-grams-in-a-cup).
+Full charts for every ingredient: [How many grams in a cup](https://gramsincup.com/blog/how-many-grams-in-a-cup).
 
 ## Features
 
